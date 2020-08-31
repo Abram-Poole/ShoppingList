@@ -1,0 +1,10 @@
+What do we want out of this?
+-Login/Register functionality
+-A list of bought groceries
+-A shopping list if you are out
+
+What do we need?
+-React Native
+-A SQL database
+-State saving
+-A design library - MaterialUI
